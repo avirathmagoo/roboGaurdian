@@ -372,10 +372,6 @@ Issues and pull requests welcome! This is an active robotics project.- **Safety*
 **🎯 Ready to track some humans? Let's go!** 🚀- Fork and submit PRs for new features (e.g., temporal smoothing, multi-subject tracking).
 - Report issues with logs and system specs.
 
-## License
 
-MIT License - Free for personal and educational use.
-
----
 
 For questions or enhancements, refer to the code comments or open an issue. Enjoy prototyping your Chirpy robot! 🤖
